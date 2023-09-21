@@ -1,0 +1,14 @@
+.box {
+    width: 50px; /* Set the width of the box */
+    height: 50px; /* Set the height of the box */
+    background-color: rgb(255, 255, 255); /* Set the background color of the box */
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
+
+span {
+    font-size: 24px; /* Set the font size */
+    font-weight: bold;
+    color: #ac1f25; /* Make the text bold */
+}
